@@ -1,7 +1,10 @@
 # Predicting Values For Missing Topics / Challenge 2 Seasonality
 
 ## Purpose
-To investigate any trends between seasonality and the type of questions asked. 
+Extend the usefullness of the dataset further by adding values that are missing for the 'question_topic' column.
+To investigate any trends between seasonality and the type of questions asked.
+
+NB:	For confidentiality purposes the dataset used for this code cannot be shared publicly.
 
 ## Steps
 - Clean data and create additional columns by breaking the date of the question out to 'year', 'month' and day of the week.
